@@ -1,3 +1,6 @@
+//LBA 6
+//Richard Zhang
+//2 May 2021
 // Testing program for SortedArrayList class
 //
 // David John
@@ -27,7 +30,7 @@ public class Main {
         System.out.println(XXX);
 
         System.out.println(XXX.isSorted());
-        // dump();
+        //XXX.dump();
 
         System.out.println(XXX.rsearch(0.77));
         System.out.println(XXX);
